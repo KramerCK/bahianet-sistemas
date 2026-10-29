@@ -9,3 +9,5 @@ Repositorio utilizado para gestionar los archivos del departamento de sistemas d
 ## Versión
 v1.0
 
+## Control de versiones
+Este proyecto utiliza Git y GitHub para gestionar sus versiones.
